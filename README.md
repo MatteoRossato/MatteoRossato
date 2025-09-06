@@ -6,6 +6,12 @@
 🔒 Exploring **AI + Cybersecurity**  
 💡 Passionate about **building, learning, and sharing**  
 
+Software & Data Engineer with a background in Bioengineering and Computer engineering, experienced in data
+pipelines, ERP systems, SQL databases, and process optimization for multinational companies. Currently leading
+global projects at AGCO Corporation, working closely with executives and cross-functional teams on data
+management, KPI tracking, and product lifecycle optimization. Skilled in Python, SQL, JavaScript, and cloud
+technologies, with strong experience in data-driven decision making and end-to-end project leadership
+
 ---
 
 ## 🛠 Tech Stack
