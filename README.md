@@ -55,7 +55,7 @@ technologies, with strong experience in data-driven decision making and end-to-e
   <a href="https://www.linkedin.com/in/mttross/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:matteorossato95@gmail.com>
+  <a href="mailto:matteorossato95@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
