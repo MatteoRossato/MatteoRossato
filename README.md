@@ -46,10 +46,10 @@
 
 ## 🌍 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/matteo-rossato/">
+  <a href="https://www.linkedin.com/in/mttross/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:rossatomatteo.work@gmail.com">
+  <a href="matteorossato95@gmail.com>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
