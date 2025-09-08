@@ -29,8 +29,10 @@ technologies, with strong experience in data-driven decision making and end-to-e
   <a href="https://github.com/MatteoRossato/PROJECT--TicTacGame">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoRossato&repo=PROJECT--TicTacGame&theme=tokyonight" />
   </a>
+  <a href="https://github.com/MatteoRossato/Rock-scissors-paper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoRossato&repo=PROJECT--TicTacGame&theme=tokyonight" />
+  </a>
 </p>
-
 
 
 ---
