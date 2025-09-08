@@ -30,7 +30,7 @@ technologies, with strong experience in data-driven decision making and end-to-e
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoRossato&repo=PROJECT--TicTacGame&theme=tokyonight" />
   </a>
   <a href="https://github.com/MatteoRossato/Rock-scissors-paper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoRossato&repo=PROJECT--TicTacGame&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoRossato&repo=Rock-scissors-paper&theme=tokyonight" />
   </a>
 </p>
 
